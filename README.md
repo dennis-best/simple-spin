@@ -1,14 +1,14 @@
 simple-spin
 ===========
 
-##About
+###About
 The world's simplest loading (or anything) spinner.
 
-##Usage
+###Usage
 Include the CSS in your project
 
-Create a div named ".simple-spin" in your markup and stick an image or svg in it or leave the div empty and add background-image and background-size to the ".simple-spin" class.
+I your poject, create a div named ".simple-spin" and stick an image or svg in it or leave the div empty and tweak the included background-image and background-size on the ".simple-spin" class.
 
-I've included an SVG spinner
+Adjust the background-image, duration and size to your heart's content.
 
-
+I've included an SVG spinner.
