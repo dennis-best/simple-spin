@@ -1,0 +1,10 @@
+{
+  "name": "simple-spin",
+  "version": "0.0.1",
+  "main": "simple-spin.css",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
